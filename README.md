@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">undergraduate in computer engineering at UEMA 🤖</p>
+<p align="left">graduate in computer engineering 🤖</p>
 
 ###
 
