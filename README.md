@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Gabriel, a Python developer and data analysis enjoyner!</h2>
+<h2 align="left">Hi 👋! My name is João Gabriel, a Fullstack developer and data analysis enjoyner!</h2>
 
 ###
 
