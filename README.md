@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">graduate in computer engineering 🤖</p>
+<p align="left">graduate in computer engineering at UEMA🤖</p>
 
 ###
 
